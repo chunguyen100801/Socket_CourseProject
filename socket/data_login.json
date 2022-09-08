@@ -1,0 +1,39 @@
+{
+    "user": [
+        {
+            "name": "Toxu",
+            "username": "tu",
+            "password": "123"
+        },
+        {
+            "name": "Tester",
+            "username": "test",
+            "password": "123"
+        },
+        {
+            "name": "bla",
+            "username": "bla",
+            "password": "bla"
+        },
+        {
+            "name": "meow",
+            "username": "meow123",
+            "password": "123456789"
+        },
+        {
+            "name": "Test",
+            "username": "test12",
+            "password": "123"
+        },
+        {
+            "name": "123",
+            "username": "123",
+            "password": "123"
+        },
+        {
+            "name": "socket",
+            "username": "admin",
+            "password": "password"
+        }
+    ]
+}

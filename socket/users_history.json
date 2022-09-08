@@ -1,0 +1,237 @@
+{
+  "comment": "File data includes only user searching history, do not modify",
+  "users_history": [
+    {
+      "name": "Toxu",
+      "history": [
+        {
+          "date_time": "07/12/2021, 20:53:19",
+          "results": {
+            "currency": "AUD",
+            "buy_cash": 15848.81,
+            "buy_transfer": 16008.9,
+            "sell": 16525.09
+          }
+        },
+        {
+          "date_time": "07/12/2021, 20:53:19",
+          "results": {
+            "currency": "USD",
+            "buy_cash": 22930.0,
+            "buy_transfer": 22960.0,
+            "sell": 23200.0
+          }
+        },
+        {
+          "date_time": "07/12/2021, 20:53:19",
+          "results": {
+            "currency": "CNY",
+            "buy_cash": 3547.69,
+            "buy_transfer": 3583.52,
+            "sell": 3699.63
+          }
+        },
+        {
+          "date_time": "08/12/2021, 08:23:56",
+          "results": {
+            "currency": "JPY",
+            "buy_cash": 197.23,
+            "buy_transfer": 199.22,
+            "sell": 208.78
+          }
+        },
+        {
+          "date_time": "08/12/2021, 08:54:10",
+          "results": {
+            "currency": "THB",
+            "buy_cash": 607.66,
+            "buy_transfer": 675.18,
+            "sell": 701.15
+          }
+        },
+        {
+          "date_time": "06/12/2021, 23:52:36",
+          "results": {
+            "currency": "THB",
+            "buy_cash": 602.8,
+            "buy_transfer": 669.78,
+            "sell": 695.53
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tester",
+      "history": [
+        {
+          "date_time": "07/12/2021, 20:53:19",
+          "results": {
+            "currency": "JPY",
+            "buy_cash": 197.23,
+            "buy_transfer": 199.22,
+            "sell": 208.78
+          }
+        },
+        {
+          "date_time": "07/12/2021, 20:53:19",
+          "results": {
+            "currency": "CNY",
+            "buy_cash": 3547.69,
+            "buy_transfer": 3583.52,
+            "sell": 3699.63
+          }
+        },
+        {
+          "date_time": "04/12/2021, 21:09:19",
+          "results": {
+            "currency": "CNY",
+            "buy_cash": 3508.51,
+            "buy_transfer": 3543.95,
+            "sell": 3655.64
+          }
+        }
+      ]
+    },
+    {
+      "name": "bla",
+      "history": [
+        {
+          "date_time": "05/12/2021, 21:41:01",
+          "results": {
+            "currency": "CAD",
+            "buy_cash": 17344.8,
+            "buy_transfer": 17520.0,
+            "sell": 18069.44
+          }
+        },
+        {
+          "date_time": "05/12/2021, 21:41:01",
+          "results": {
+            "currency": "USD",
+            "buy_cash": 22670.0,
+            "buy_transfer": 22700.0,
+            "sell": 22940.0
+          }
+        },
+        {
+          "date_time": "07/12/2021, 20:53:19",
+          "results": {
+            "currency": "DKK",
+            "buy_cash": 0.0,
+            "buy_transfer": 3439.67,
+            "sell": 3571.95
+          }
+        },
+        {
+          "date_time": "05/12/2021, 21:41:01",
+          "results": {
+            "currency": "EUR",
+            "buy_cash": 25103.64,
+            "buy_transfer": 25357.22,
+            "sell": 26487.38
+          }
+        }
+      ]
+    },
+    {
+      "name": "meow",
+      "history": [
+        {
+          "date_time": "07/12/2021, 20:53:19",
+          "results": {
+            "currency": "THB",
+            "buy_cash": 601.74,
+            "buy_transfer": 668.6,
+            "sell": 694.32
+          }
+        },
+        {
+          "date_time": "07/12/2021, 20:53:19",
+          "results": {
+            "currency": "THB",
+            "buy_cash": 601.74,
+            "buy_transfer": 668.6,
+            "sell": 694.32
+          }
+        },
+        {
+          "date_time": "03/12/2021, 23:50:24",
+          "results": {
+            "currency": "JPY",
+            "buy_cash": 195.3,
+            "buy_transfer": 197.27,
+            "sell": 206.56
+          }
+        },
+        {
+          "date_time": "07/12/2021, 20:53:19",
+          "results": {
+            "currency": "EUR",
+            "buy_cash": 25387.78,
+            "buy_transfer": 25644.22,
+            "sell": 26810.14
+          }
+        },
+        {
+          "date_time": "08/12/2021, 08:54:10",
+          "results": {
+            "currency": "EUR",
+            "buy_cash": 25356.29,
+            "buy_transfer": 25612.42,
+            "sell": 26776.89
+          }
+        }
+      ]
+    },
+    {
+      "name": "Test",
+      "history": [
+        {
+          "date_time": "07/12/2021, 20:53:19",
+          "results": {
+            "currency": "JPY",
+            "buy_cash": 197.23,
+            "buy_transfer": 199.22,
+            "sell": 208.78
+          }
+        },
+        {
+          "date_time": "03/12/2021, 23:50:24",
+          "results": {
+            "currency": "USD",
+            "buy_cash": 22670.0,
+            "buy_transfer": 22700.0,
+            "sell": 22940.0
+          }
+        },
+        {
+          "date_time": "07/12/2021, 20:53:19",
+          "results": {
+            "currency": "AUD",
+            "buy_cash": 15848.81,
+            "buy_transfer": 16008.9,
+            "sell": 16525.09
+          }
+        },
+        {
+          "date_time": "04/12/2021, 21:09:19",
+          "results": {
+            "currency": "THB",
+            "buy_cash": 595.92,
+            "buy_transfer": 662.14,
+            "sell": 687.01
+          }
+        },
+        {
+          "date_time": "08/12/2021, 08:54:10",
+          "results": {
+            "currency": "EUR",
+            "buy_cash": 25356.29,
+            "buy_transfer": 25612.42,
+            "sell": 26776.89
+          }
+        }
+      ]
+    }
+  ]
+}
